@@ -73,7 +73,14 @@ CineNote is designed to be a personal movie address book where users can log and
 
    ```
 
-6. **Run the Application:**
+6. **Run the database migrations:**
+
+   ```bash
+   npx prisma migrate deploy
+
+   ```
+
+7. **Run the Application:**
    server
 
    ```bash
