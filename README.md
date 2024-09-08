@@ -81,14 +81,15 @@ CineNote is designed to be a personal movie address book where users can log and
    ```
 
 7. **Run the Application:**
-   server
+
+   - Server
 
    ```bash
    npm start
 
    ```
 
-   client
+   - Client
 
    ```bash
    npm run dev
