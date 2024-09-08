@@ -4,7 +4,7 @@ import { useState } from "react";
 import HomePage from "./components/HomePage";
 import MainPage from "./components/MainPage";
 
-const baseURL = "https://cinenote.onrender.com";
+const baseURL = "http://localhost:5000";
 
 export default function App() {
   const [token, setToken] = useState(localStorage.getItem("jwt"));
