@@ -1,6 +1,7 @@
 # CineNote
 
 CineNote is a simple full-stack web application that allows users to create an account, record their favorite movies, and manage their movie list. With a simple and intuitive interface, users can easily add movie titles, descriptions, and run times, as well as delete movies they no longer want to keep track of.
+![My Project Home Page](./assets/home-page.png)
 
 ## Overview
 
