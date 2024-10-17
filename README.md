@@ -102,6 +102,10 @@ CineNote is designed to be a personal movie address book where users can log and
    npm run dev
    ```
 
+## Live App
+
+You can visit the live version of CineNote [here](https://cinenote.netlify.app/).
+
 ## Contact
 
 For any questions or feedback, please contact [Hamada](https://hmad.netlify.app/).
