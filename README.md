@@ -3,6 +3,13 @@
 CineNote is a simple full-stack web application that allows users to create an account, record their favorite movies, and manage their movie list. With a simple and intuitive interface, users can easily add movie titles, descriptions, and run times, as well as delete movies they no longer want to keep track of.
 ![My Project Home Page](./assets/home-page.png)
 
+## Note
+
+For deployment purposes, this repository has been divided into two separate repositories:
+
+- [CineNote Client Repo](https://github.com/Hamada-AB/cinenote-client)
+- [CineNote Server Repo](https://github.com/Hamada-AB/cinenote-server)
+
 ## Overview
 
 CineNote is designed to be a personal movie address book where users can log and manage their favorite movies. This application is perfect for movie enthusiasts who want to keep a record of movies they've watched or plan to watch in the future.
@@ -21,7 +28,6 @@ CineNote is designed to be a personal movie address book where users can log and
 - **CSS**
 - **JavaScript**
 - **React**
-  - **react-router-dom**: For handling client-side routing
 
 ### Backend
 
