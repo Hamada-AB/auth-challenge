@@ -42,8 +42,6 @@ CineNote is designed to be a personal movie address book where users can log and
 
 ### ⚠️ Important: Fork Before You Clone
 
-**Attention:** This updated approach encourages proper GitHub workflow and ensures that users work within their own repository fork, making it easier to manage contributions and changes.
-
 ### Prerequisites
 
 - Node.js and npm installed on your machine.
