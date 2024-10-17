@@ -1,6 +1,7 @@
 # CineNote
 
-CineNote is a simple full-stack web application that allows users to create an account, record their favorite movies, and manage their movie list. With a simple and intuitive interface, users can easily add movie titles, descriptions, and run times, as well as delete movies they no longer want to keep track of.
+CineNote is a simple full-stack web application that allows users to create an account, record their favorite movies, and manage their movie list. With a simple and intuitive interface, users can easily add movie titles, descriptions, and run times, as well as delete movies they no longer want to keep track of. You can visit the live version of CineNote [here](https://cinenote.netlify.app/).
+
 ![My Project Home Page](./assets/home-page.png)
 
 ## Note
@@ -101,10 +102,6 @@ CineNote is designed to be a personal movie address book where users can log and
    ```bash
    npm run dev
    ```
-
-## Live App
-
-You can visit the live version of CineNote [here](https://cinenote.netlify.app/).
 
 ## Contact
 
